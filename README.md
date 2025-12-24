@@ -1,4 +1,4 @@
-# beating-LED-julehjerte
+# Soft LED pulses in a pleated Danish Christmas Heart
 <div align="center">
   <img src="./output-opt.gif" alt="Demo of feature">
 </div>
