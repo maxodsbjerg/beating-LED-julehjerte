@@ -1,0 +1,52 @@
+{
+  "battery_type": {
+    "value": "3×AAA (alkaline or NiMH)",
+    "notes": "Standard AAA cells"
+  },
+  "battery_unloaded_voltage": {
+    "value": 4.2,
+    "units": "V",
+    "notes": "Fresh alkaline pack measured with multimeter"
+  },
+  "battery_voltage_under_led_load": {
+    "value": 3.2,
+    "units": "V",
+    "notes": "Slight drop under current draw"
+  },
+  "led_chain_current": {
+    "value_ma": 180,
+    "value_a": 0.18,
+    "units": "mA / A",
+    "notes": "Measured with meter; slightly dimmed due to meter series resistance; actual current a bit higher (~190–200 mA)"
+  },
+  "current_per_led": {
+    "value_approx_ma": 9,
+    "units": "mA",
+    "notes": "LEDs are underdriven (10–20 mA typical), contributes to long lifespan"
+  },
+  "total_power_consumption": {
+    "value_w": 0.576,
+    "units": "W",
+    "notes": "P = V × I = 3.2 V × 0.18 A (reported ~0.58 W)"
+  },
+  "led_configuration": {
+    "value": "Likely series/parallel groups with resistors",
+    "notes": "Voltage and current match typical small battery LED chains"
+  },
+  "brightness": {
+    "value": "Slightly dimmer under meter load; normal when powered directly",
+    "notes": "Safe, not overdriven"
+  },
+  "safe_voltage_range": {
+    "min_v": 3,
+    "max_v": 4.5,
+    "units": "V DC",
+    "notes": "Matches AAA pack range"
+  },
+  "safe_current_range": {
+    "max_ma": 200,
+    "units": "mA",
+    "notes": "Up to ~200 mA total; well within AAA and LED limits"
+  },
+  "general_note": "Information obtained from testing and trialing using a 40-LED chain cut into 20. Provided for informational purposes only; no guarantee of accuracy, safety, or suitability for any particular use."
+}
