@@ -7,7 +7,7 @@ An Arduino controls a modified multicoloured 40-LED bulb chain (reduced to 20 LE
 ## Materials 
 - Arduino Uno
 - A pleated christmas heart of standard size
-- LED light chain (for more see LED_chain_specs-json)
+- LED light chain (for more see LED_chain_specs.json)
   - LED chain current (measured with meter)
     180 mA
   - Total power consumption ~0.58 W
