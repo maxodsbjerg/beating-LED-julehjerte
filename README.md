@@ -2,4 +2,4 @@
 <div align="center">
   <img src="./output-opt.gif" alt="Demo of feature">
 </div>
-Pleated Nordic julehjerte with soft LED pulses, driven by Arduino
+An Arduino controls a modified multicoloured 40-LED bulb chain (reduced to 20 LEDs) housed inside a pleated Danish julehjerte, creating a calm, heartbeat-like light pulse.
