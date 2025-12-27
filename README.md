@@ -13,3 +13,7 @@ An Arduino controls a modified multicoloured 40-LED bulb chain (reduced to 20 LE
   - Total power consumption ~0.58 W
 - MOSFET BUK455500B
 - 220 Ω, ±5% - resistor 
+## Breadboard view: circuit illustration
+<div align="center">
+  <img src="./beating-led-julehjerte_bb.png" alt="readboard view: circuit illustration">
+</div>
